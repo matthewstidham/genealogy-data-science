@@ -1,0 +1,104 @@
+Person 1,Relation,Person 2,Gender
+Elizabeth II,Spouse,Philip Mountbatten,F
+Charles Windsor,Child,Elizabeth II,M
+Anne Windsor,Child,Elizabeth II,F
+Andrew Windsor,Child,Elizabeth II,M
+Edward Windsor,Child,Elizabeth II,M
+William Windsor,Child,Charles Windsor,M
+Henry Windsor,Child,Charles Windsor,M
+Diana Spencer,Spouse,Charles Windsor,F
+Catherine Middleton,Spouse,William Windsor,F
+George AL Windsor,Child,William Windsor,M
+Charlotte ED Windsor,Child,William Windsor,F
+Louis AC Windsor,Child,William Windsor,M
+Meghan Markle,Spouse,Henry Windsor,F
+Elizabeth II,Child,George VI,M
+George VI,Child,George V,M
+George V,Child,Edward VII,M
+Edward VII,Child,Victoria,M
+Victoria,Child,Edward Duke of Kent and Strathearn,F
+Edward Duke of Kent and Strathearn,Child,George III,M
+William IV,Child,George III,M
+George IV,Child,George III,M
+George III,Child,Frederick Prince of Wales,M
+Frederick Prince of Wales,Child,George II,M
+George II,Child,George I,M
+George I,Child,Sophia of Hanover Electress of Brunswick,M
+Sophia of Hanover Electress of Brunswick,Child,Elizabeth Electress Palatine,F
+Elizabeth Electress Palatine,Child,James VI & I,M
+Charles I,Child,James VI & I,M
+Charles II,Child,Charles I,M
+Mary Princess Royal,Child,Charles II,F
+William III & II,Child,Mary Princess Royal,M
+James II & VII,Child,Charles I,M
+Mary II,Child,James II & VII,F
+Anne,Child,James II & VII,F
+Mary II,Spouse,William III & II,F
+James VI & I,Child,Mary Queen of Scots,F
+Mary Queen of Scots,Child,James V of Scotland,F
+James V of Scotland,Child,Margaret Tudor,F
+Margaret Tudor,Child,Henry VII,F
+Henry VIII,Child,Henry VII,M
+Mary Tudor,Child,Henry VII,M
+Edward VI,Child,Henry VIII,M
+Mary I,Child,Henry VIII,F
+Elizabeth I,Child,Henry VIII,F
+Philip Mountbatten,Child,Alice Mountbatten,M
+Alice Mountbatten,Child,Victoria Alberta Hesse,F
+Victoria Alberta Hesse,Child,Princess Alice,F
+Princess Alice,Child,Victoria,F
+Henry VII,Spouse,Elizabeth of York,M
+Elizabeth of York,Child,Edward IV,F
+Edward V,Child,Edward IV,M
+Edward IV,Child,Richard of York,M
+Richard III,Child,Richard of York,M
+Richard of York,Child,Anne Mortimer,M
+Richard of York,Child,Edmund of Langley,M
+Anne Mortimer,Child,Roger Mortimer,F
+Roger Mortimer,Child,Philippa of Clarence,M
+Philippa of Clarence,Child,Lionel of Antwerp,F
+Edmund of Langley,Child,Edward III,M
+Henry VII,Child,Margaret Beaufort,F
+Margaret Beaufort,Child,John Beaufort Duke of Somerset,F
+John Beaufort Duke of Somerset,Child,John Beaufort Earl of Somerset,M
+John Beaufort Earl of Somerset,Child,John of Gaunt,M
+Henry IV,Child,John of Gaunt,M
+Henry V,Child,Henry IV,M
+Henry VI,Child,Henry V,M
+Edward The Black Prince,Child,Edward III,M
+Richard II,Child,Edward The Black Prince,M
+Edward III,Child,Edward II,M
+Edward II,Child,Edward I,M
+Edward I,Child,Henry III,M
+Henry III,Child,King John,M
+King John,Child,Henry II,M
+Richard I,Child,Henry II,M
+Henry II,Child,Matilda,M
+Henry I,Child,William the Conqueror,M
+Matilda,Child,Henry I,M
+William the Conqueror,Spouse,Matilda of Scotland,M
+John of Gaunt,Child,Edward III,M
+Lionel of Antwerp,Child,Edward III,M
+Matilda of Scotland,Child,Margaret of Scotland,F
+Margaret of Scotland,Child,Edward the Exile,F
+Edward the Exile,Child,Edmund II,M
+Edmund II,Child,Aethelred the Unready,M
+Aethelred the Unready,Child,Edgar I,M
+Edward the Martyr,Child,Edgar I,M
+Emma of Normandy,Spouse,Aethelred the Unready,F
+Edward the Confessor,Child,Aethelred the Unready,M
+Cnut the Great,Spouse,Emma of Normandy,M
+Sweyn Forkbeard,Earliest Ancestor,,M
+Cnut the Great,Child,Sweyn Forkbeard,M
+Richard I of Normandy,Earliest Ancestor,,M
+Emma of Normandy,Child,Richard I of Normandy,F
+William the Conqueror,Child,Robert I of Normandy,M
+Robert I of Normandy,Child,Richard II of Normandy,M
+Richard II of Normandy,Child,Richard I of Normandy,M
+Edmund I,Child,Edward the Elder,M
+Edgar I,Child,Edmund I,M
+Edward the Elder,Child,Alfred the Great,M
+Alfred the Great,Earliest Ancestor,,M
+Aethelstan,Child,Edward the Elder,M
+Eadred,Child,Edward the Elder,M
+Eadwig,Child,Edmund I,M
